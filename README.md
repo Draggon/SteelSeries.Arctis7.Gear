@@ -1,0 +1,1 @@
+# SteelSeries.Arctis7.Gear
