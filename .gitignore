@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SteelSeries.Arctis7.Gear/.vs/SteelSeries.Arctis7.Gear/v16
+/SteelSeries.Arctis7.Gear/SteelSeries.Arctis7.Gear/bin/Debug
+/SteelSeries.Arctis7.Gear/SteelSeries.Arctis7.Gear/obj
